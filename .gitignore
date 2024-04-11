@@ -10,3 +10,5 @@ testing/
 test-datasets/
 results/
 work/
+
+.history
